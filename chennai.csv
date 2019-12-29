@@ -1,0 +1,271 @@
+STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_NAME,SITE_TYPE,WLCODE,YEAR_OBS,MONSOON,POMRB,POMKH,PREMON
+TN,Chennai,Chennai,Chennai,13.11666667,80.26666667,Tondiarpet-1,"Dug Well",W01780,2018,6.5,3.86,NA,NA
+TN,Chennai,Chennai,Chennai,13.00555556,80.24861111,Taramani,"Dug Well",W01776,2018,NA,3.95,NA,NA
+TN,Chennai,Chennai,Chennai,13.025,80.25833333,Alwarpet,"Dug Well",W01764,2018,NA,NA,3.3,5.35
+TN,Chennai,Chennai,Chennai,13.02222222,80.225,Guindy(CLRI),"Bore Well",W01768,2018,NA,NA,5.05,8.4
+TN,Chennai,Chennai,Chennai,13.05555556,80.28138889,"Chepauk (A)","Dug Well",W20975,2018,NA,3.32,4.2,NA
+TN,Chennai,Chennai,Chennai,13.11666667,80.275,Tondiarpet-2,"Dug Well",W18421,2018,NA,NA,10.3,NA
+TN,Chennai,Chennai,Chennai,13.05,80.21666667,Kodambakkam,"Dug Well",W01771,2018,NA,NA,NA,7.5
+TN,Chennai,Chennai,Chennai,13.08333333,80.27083333,Vepery,"Dug Well",W01783,2018,NA,4.6,4.54,NA
+TN,Chennai,Chennai,Chennai,13.07777778,80.22916667,Thiyagarayanagar,"Dug Well",W01777,2018,NA,6,NA,NA
+TN,Chennai,Chennai,Chennai,13.06666667,80.22777778,Aminjikarai,"Dug Well",W01765,2018,NA,NA,10.87,NA
+TN,Chennai,Chennai,Chennai,13.10555556,80.28138889,"Vallalar Nagar","Dug Well",W20976,2018,NA,NA,7.9,6.83
+TN,Chennai,Chennai,Chennai,13.00138889,80.27,"Besant Nagar","Dug Well",W01766,2018,NA,3.8,5.45,NA
+TN,Chennai,Chennai,Chennai,13.02222222,80.225,Guindy(CLRI),"Bore Well",W01768,2017,NA,NA,1.78,NA
+TN,Chennai,Chennai,Chennai,13.025,80.25833333,Alwarpet,"Dug Well",W01764,2017,3.7,3.5,1.5,3.65
+TN,Chennai,Chennai,Chennai,13.05555556,80.28138889,"Chepauk (A)","Dug Well",W20975,2017,4.42,3.72,2.64,4.44
+TN,Chennai,Chennai,Chennai,13.00138889,80.27,"Besant Nagar","Dug Well",W01766,2017,5.6,3.6,3.4,5.05
+TN,Chennai,Chennai,Chennai,13.00555556,80.24861111,Taramani,"Dug Well",W01776,2017,4.7,NA,3.25,4.85
+TN,Chennai,Chennai,Chennai,13.08333333,80.27083333,Vepery,"Dug Well",W01783,2017,8.7,4,5.91,8.88
+TN,Chennai,Chennai,Chennai,13.10555556,80.28138889,"Vallalar Nagar","Dug Well",W20976,2017,7.78,7.68,5.22,7.65
+TN,Chennai,Chennai,Chennai,13.06666667,80.22777778,Aminjikarai,"Dug Well",W01765,2017,9.4,4.34,NA,8.5
+TN,Chennai,Chennai,Chennai,13.07777778,80.22916667,Thiyagarayanagar,"Dug Well",W01777,2017,NA,4.5,NA,NA
+TN,Chennai,Chennai,Chennai,13.11666667,80.26666667,Tondiarpet-1,"Dug Well",W01780,2017,6.5,NA,5.64,6.22
+TN,Chennai,Chennai,Chennai,13.025,80.25833333,Alwarpet,"Dug Well",W01764,2016,3.3,NA,3.1,2.4
+TN,Chennai,Chennai,Chennai,13.06666667,80.22777778,Aminjikarai,"Dug Well",W01765,2016,7.37,NA,4.67,6.43
+TN,Chennai,Chennai,Chennai,13.00138889,80.27,"Besant Nagar","Dug Well",W01766,2016,3.3,NA,3.4,2.6
+TN,Chennai,Chennai,Chennai,13.0625,80.27916667,Chepauk,"Dug Well",W01767,2016,NA,NA,NA,3.28
+TN,Chennai,Chennai,Chennai,13.10555556,80.28138889,"Vallalar Nagar","Dug Well",W20976,2016,6.45,NA,5.95,5.03
+TN,Chennai,Chennai,Chennai,13.07777778,80.22916667,Thiyagarayanagar,"Dug Well",W01777,2016,4.75,NA,5,4.13
+TN,Chennai,Chennai,Chennai,13.08333333,80.27083333,Vepery,"Dug Well",W01783,2016,NA,NA,3.9,4.84
+TN,Chennai,Chennai,Chennai,13.11666667,80.275,Tondiarpet-2,"Dug Well",W18421,2016,6.6,NA,4.7,4.48
+TN,Chennai,Chennai,Chennai,13.05555556,80.28138889,"Chepauk (A)","Dug Well",W20975,2016,3.5,NA,3.5,3.28
+TN,Chennai,Chennai,Chennai,13.02222222,80.225,Guindy(CLRI),"Bore Well",W01768,2016,NA,NA,3,2.22
+TN,Chennai,Chennai,Chennai,13.025,80.25833333,Alwarpet,"Dug Well",W01764,2015,2.66,4.65,2.53,2.66
+TN,Chennai,Chennai,Chennai,13.06666667,80.22777778,Aminjikarai,"Dug Well",W01765,2015,8.43,10.39,NA,7.51
+TN,Chennai,Chennai,Chennai,13.00138889,80.27,"Besant Nagar","Dug Well",W01766,2015,5.07,6.23,5.7,4.76
+TN,Chennai,Chennai,Chennai,13.0625,80.27916667,Chepauk,"Dug Well",W01767,2015,NA,2.65,NA,NA
+TN,Chennai,Chennai,Chennai,13.02222222,80.225,Guindy(CLRI),"Bore Well",W01768,2015,4.25,6.23,4.73,4.04
+TN,Chennai,Chennai,Chennai,13.05833333,80.25972222,Velacherry,"Bore Well",W24335,2015,NA,5.32,NA,NA
+TN,Chennai,Chennai,Chennai,13.07777778,80.22916667,Thiyagarayanagar,"Dug Well",W01777,2015,7.87,10.39,8.12,8.04
+TN,Chennai,Chennai,Chennai,13.08333333,80.27083333,Vepery,"Dug Well",W01783,2015,5.96,12.45,6.94,6.8
+TN,Chennai,Chennai,Chennai,13.11666667,80.275,Tondiarpet-2,"Dug Well",W18421,2015,5.6,51.02,5.98,5.6
+TN,Chennai,Chennai,Chennai,13.05555556,80.28138889,"Chepauk (A)","Dug Well",W20975,2015,3.5,2.65,3.2,3.87
+TN,Chennai,Chennai,Chennai,13.10555556,80.28138889,"Vallalar Nagar","Dug Well",W20976,2015,7.15,49.29,7.6,7
+TN,Chennai,Chennai,Chennai,13.00555556,80.24861111,Taramani,"Dug Well",W01776,2015,NA,4.1,NA,NA
+TN,Chennai,Chennai,Chennai,13.025,80.25833333,Alwarpet,"Dug Well",W01764,2014,2.4,1.9,1.5,3.2
+TN,Chennai,Chennai,Chennai,13.06666667,80.22777778,Aminjikarai,"Dug Well",W01765,2014,6.37,5.19,5.27,7.15
+TN,Chennai,Chennai,Chennai,13.00138889,80.27,"Besant Nagar","Dug Well",W01766,2014,4.2,4.26,2.3,5.58
+TN,Chennai,Chennai,Chennai,13.02222222,80.225,Guindy(CLRI),"Bore Well",W01768,2014,6.18,1.11,'0.88,4.1
+TN,Chennai,Chennai,Chennai,13.05833333,80.25972222,Velacherry,"Bore Well",W24335,2014,1.2,NA,NA,NA
+TN,Chennai,Chennai,Chennai,13.08333333,80.27083333,Vepery,"Dug Well",W01783,2014,2.72,5.87,1.65,7.36
+TN,Chennai,Chennai,Chennai,13.11666667,80.275,Tondiarpet-2,"Dug Well",W18421,2014,6.6,NA,NA,NA
+TN,Chennai,Chennai,Chennai,13.05555556,80.28138889,"Chepauk (A)","Dug Well",W20975,2014,3.23,2.82,2.2,3.96
+TN,Chennai,Chennai,Chennai,13.10555556,80.28138889,"Vallalar Nagar","Dug Well",W20976,2014,8,NA,7.1,7.35
+TN,Chennai,Chennai,Chennai,13.07777778,80.22916667,Thiyagarayanagar,"Dug Well",W01777,2014,8.35,6.05,5,8.46
+TN,Chennai,Chennai,Chennai,13.025,80.25833333,Alwarpet,"Dug Well",W01764,2013,2.4,NA,NA,2.64
+TN,Chennai,Chennai,Chennai,13.06666667,80.22777778,Aminjikarai,"Dug Well",W01765,2013,NA,7.04,6.02,8.74
+TN,Chennai,Chennai,Chennai,13.00138889,80.27,"Besant Nagar","Dug Well",W01766,2013,4.76,3.77,3.85,4.72
+TN,Chennai,Chennai,Chennai,13.02222222,80.225,Guindy(CLRI),"Bore Well",W01768,2013,2.1,3.25,1.56,7.5
+TN,Chennai,Chennai,Chennai,13.07777778,80.22916667,Thiyagarayanagar,"Dug Well",W01777,2013,7.45,3.39,5.85,5.85
+TN,Chennai,Chennai,Chennai,13.05833333,80.25972222,Velacherry,"Bore Well",W24335,2013,NA,NA,NA,7.98
+TN,Chennai,Chennai,Chennai,13.08333333,80.27083333,Vepery,"Dug Well",W01783,2013,6.58,6.25,6.5,NA
+TN,Chennai,Chennai,Chennai,13.11666667,80.275,Tondiarpet-2,"Dug Well",W18421,2013,NA,NA,6.2,NA
+TN,Chennai,Chennai,Chennai,13.05555556,80.28138889,"Chepauk (A)","Dug Well",W20975,2013,3.1,NA,2.55,3.8
+TN,Chennai,Chennai,Chennai,13.10555556,80.28138889,"Vallalar Nagar","Dug Well",W20976,2013,7.35,6.8,7.16,7.21
+TN,Chennai,Chennai,Chennai,13.11666667,80.26666667,Tondiarpet-1,"Dug Well",W01780,2013,6.37,4.8,NA,4.55
+TN,Chennai,Chennai,Chennai,13.06666667,80.22777778,Aminjikarai,"Dug Well",W01765,2012,NA,4.35,6.75,7.94
+TN,Chennai,Chennai,Chennai,13.00138889,80.27,"Besant Nagar","Dug Well",W01766,2012,NA,NA,3.61,NA
+TN,Chennai,Chennai,Chennai,13.02222222,80.225,Guindy(CLRI),"Bore Well",W01768,2012,NA,NA,NA,3.21
+TN,Chennai,Chennai,Chennai,13.025,80.26916667,Mandaveli,"Dug Well",W01772,2012,NA,2.2,NA,NA
+TN,Chennai,Chennai,Chennai,13.1,80.28333333,"Vallalar Nagar-1","Dug Well",W22649,2012,NA,NA,NA,5.8
+TN,Chennai,Chennai,Chennai,13.11666667,80.26666667,Tondiarpet-1,"Dug Well",W01780,2012,NA,NA,4.41,NA
+TN,Chennai,Chennai,Chennai,13.08333333,80.27083333,Vepery,"Dug Well",W01783,2012,NA,4.61,NA,8.04
+TN,Chennai,Chennai,Chennai,13.11666667,80.275,Tondiarpet-2,"Dug Well",W18421,2012,NA,NA,NA,5.05
+TN,Chennai,Chennai,Chennai,13.01666667,80.26666667,Adyar,"Dug Well",W22648,2012,NA,NA,NA,1.72
+TN,Chennai,Chennai,Chennai,13.07777778,80.22916667,Thiyagarayanagar,"Dug Well",W01777,2012,NA,1.78,4.42,4.67
+TN,Chennai,Chennai,Chennai,13.025,80.25833333,Alwarpet,"Dug Well",W01764,2011,NA,1.22,NA,NA
+TN,Chennai,Chennai,Chennai,13.06666667,80.22777778,Aminjikarai,"Dug Well",W01765,2011,6.44,4.52,3.44,6.47
+TN,Chennai,Chennai,Chennai,13.00138889,80.27,"Besant Nagar","Dug Well",W01766,2011,NA,2.79,NA,NA
+TN,Chennai,Chennai,Chennai,13.02222222,80.225,Guindy(CLRI),"Bore Well",W01768,2011,3.7,1.2,'0.78,3.38
+TN,Chennai,Chennai,Chennai,13.11666667,80.275,Tondiarpet-2,"Dug Well",W18421,2011,5.3,3.2,4.34,4.72
+TN,Chennai,Chennai,Chennai,13.07777778,80.22916667,Thiyagarayanagar,"Dug Well",W01777,2011,4.84,2.94,1.28,4.58
+TN,Chennai,Chennai,Chennai,13.08333333,80.27083333,Vepery,"Dug Well",W01783,2011,1.72,5.15,4.5,2.15
+TN,Chennai,Chennai,Chennai,13.10138889,80.22777778,Villivakkam,"Dug Well",W01784,2011,NA,NA,1.5,NA
+TN,Chennai,Chennai,Chennai,13.03333333,80.28055556,Santhome,"Dug Well",W01775,2011,NA,1.89,NA,NA
+TN,Chennai,Chennai,Chennai,13.025,80.25833333,Alwarpet,"Dug Well",W01764,2010,NA,NA,NA,2.71
+TN,Chennai,Chennai,Chennai,13.06666667,80.22777778,Aminjikarai,"Dug Well",W01765,2010,6.54,5.34,6.14,7.44
+TN,Chennai,Chennai,Chennai,13.00138889,80.27,"Besant Nagar","Dug Well",W01766,2010,4.03,3.13,3.92,4.27
+TN,Chennai,Chennai,Chennai,13.10555556,80.28138889,"Vallalar Nagar","Dug Well",W20976,2010,NA,4.92,4.95,6.4
+TN,Chennai,Chennai,Chennai,13.07777778,80.22916667,Thiyagarayanagar,"Dug Well",W01777,2010,3.94,2.44,4.44,3.84
+TN,Chennai,Chennai,Chennai,13.08333333,80.27083333,Vepery,"Dug Well",W01783,2010,NA,5.2,1.1,4.7
+TN,Chennai,Chennai,Chennai,13.11666667,80.275,Tondiarpet-2,"Dug Well",W18421,2010,4.6,3.9,4.7,6.03
+TN,Chennai,Chennai,Chennai,13.02222222,80.225,Guindy(CLRI),"Bore Well",W01768,2010,3.2,1.5,2.23,3.3
+TN,Chennai,Chennai,Chennai,13.025,80.25833333,Alwarpet,"Dug Well",W01764,2009,3.15,1.72,1.3,8.6
+TN,Chennai,Chennai,Chennai,13.06666667,80.22777778,Aminjikarai,"Dug Well",W01765,2009,7.37,4.39,7.57,7.66
+TN,Chennai,Chennai,Chennai,13.00138889,80.27,"Besant Nagar","Dug Well",W01766,2009,4.85,NA,2.2,4.8
+TN,Chennai,Chennai,Chennai,13.0625,80.27916667,Chepauk,"Dug Well",W01767,2009,NA,NA,NA,3.45
+TN,Chennai,Chennai,Chennai,13.02222222,80.225,Guindy(CLRI),"Bore Well",W01768,2009,NA,NA,'0.53,5.4
+TN,Chennai,Chennai,Chennai,13.07777778,80.22916667,Thiyagarayanagar,"Dug Well",W01777,2009,4.95,2.72,4.2,5.35
+TN,Chennai,Chennai,Chennai,13.08333333,80.27083333,Vepery,"Dug Well",W01783,2009,11.3,5.23,5.2,8.6
+TN,Chennai,Chennai,Chennai,13.11666667,80.275,Tondiarpet-2,"Dug Well",W18421,2009,5.8,1.9,4.88,2.95
+TN,Chennai,Chennai,Chennai,13.05555556,80.28138889,"Chepauk (A)","Dug Well",W20975,2009,2.1,1.7,NA,NA
+TN,Chennai,Chennai,Chennai,13.10555556,80.28138889,"Vallalar Nagar","Dug Well",W20976,2009,NA,1.9,4.95,4.25
+TN,Chennai,Chennai,Chennai,13.0625,80.27916667,Chepauk,"Dug Well",W01767,2008,NA,NA,3.1,NA
+TN,Chennai,Chennai,Chennai,13.06666667,80.22777778,Aminjikarai,"Dug Well",W01765,2008,7.37,5.07,5.54,6.79
+TN,Chennai,Chennai,Chennai,13.10555556,80.28138889,"Vallalar Nagar","Dug Well",W20976,2008,4.08,2.85,NA,3.65
+TN,Chennai,Chennai,Chennai,13.05555556,80.28138889,"Chepauk (A)","Dug Well",W20975,2008,2,1.32,3.1,2.1
+TN,Chennai,Chennai,Chennai,13.11666667,80.275,Tondiarpet-2,"Dug Well",W18421,2008,4.16,2.1,2.4,3.55
+TN,Chennai,Chennai,Chennai,13.07777778,80.22916667,Thiyagarayanagar,"Dug Well",W01777,2008,3.23,1.87,1.84,3.45
+TN,Chennai,Chennai,Chennai,13.10138889,80.22777778,Villivakkam,"Dug Well",W01784,2008,4.82,'0.56,'0.37,2.34
+TN,Chennai,Chennai,Chennai,13.00138889,80.27,"Besant Nagar","Dug Well",W01766,2008,4.9,3.8,3.9,4.34
+TN,Chennai,Chennai,Chennai,13.08333333,80.27083333,Vepery,"Dug Well",W01783,2008,4.85,6.8,4.67,5.51
+TN,Chennai,Chennai,Chennai,13.02222222,80.225,Guindy(CLRI),"Bore Well",W01768,2008,4.69,1.08,2.36,4.1
+TN,Chennai,Chennai,Chennai,13.025,80.25833333,Alwarpet,"Dug Well",W01764,2008,2.78,1.75,NA,3.12
+TN,Chennai,Chennai,Chennai,13.06666667,80.22777778,Aminjikarai,"Dug Well",W01765,2007,7.17,5.32,5.43,8.05
+TN,Chennai,Chennai,Chennai,13.05555556,80.28138889,"Chepauk (A)","Dug Well",W20975,2007,1.9,'0.45,'0.63,4.34
+TN,Chennai,Chennai,Chennai,13.02222222,80.225,Guindy(CLRI),"Bore Well",W01768,2007,5.37,3.7,NA,6.98
+TN,Chennai,Chennai,Chennai,13.00138889,80.27,"Besant Nagar","Dug Well",W01766,2007,4.36,2.8,3.48,5.2
+TN,Chennai,Chennai,Chennai,13.07777778,80.22916667,Thiyagarayanagar,"Dug Well",W01777,2007,4.1,2.82,2.5,4.9
+TN,Chennai,Chennai,Chennai,13.025,80.25833333,Alwarpet,"Dug Well",W01764,2007,2.6,2.2,1.45,4.03
+TN,Chennai,Chennai,Chennai,13.10138889,80.22777778,Villivakkam,"Dug Well",W01784,2007,1.32,1.63,'0.12,3.5
+TN,Chennai,Chennai,Chennai,13.10555556,80.28138889,"Vallalar Nagar","Dug Well",W20976,2007,4.05,2.85,3.32,4.24
+TN,Chennai,Chennai,Chennai,13.08333333,80.27083333,Vepery,"Dug Well",W01783,2007,2.71,3.88,'0.18,8.1
+TN,Chennai,Chennai,Chennai,13.11666667,80.275,Tondiarpet-2,"Dug Well",W18421,2007,3.8,2.6,3.12,2.9
+TN,Chennai,Chennai,Chennai,13.06666667,80.22777778,Aminjikarai,"Dug Well",W01765,2006,7.95,6.97,4.79,7.72
+TN,Chennai,Chennai,Chennai,13.00138889,80.27,"Besant Nagar","Dug Well",W01766,2006,4.86,4.2,2.67,4.47
+TN,Chennai,Chennai,Chennai,13.025,80.25833333,Alwarpet,"Dug Well",W01764,2006,3.1,3.6,'0.6,3.16
+TN,Chennai,Chennai,Chennai,13.0625,80.27916667,Chepauk,"Dug Well",W01767,2006,NA,2.3,NA,2.5
+TN,Chennai,Chennai,Chennai,13.11666667,80.275,Tondiarpet-2,"Dug Well",W18421,2006,3.08,2.09,2.44,2.56
+TN,Chennai,Chennai,Chennai,13.10555556,80.28138889,"Vallalar Nagar","Dug Well",W20976,2006,4.07,NA,3.15,NA
+TN,Chennai,Chennai,Chennai,13.10138889,80.22777778,Villivakkam,"Dug Well",W01784,2006,2.8,1.56,'0.01,2.2
+TN,Chennai,Chennai,Chennai,13.05555556,80.28138889,"Chepauk (A)","Dug Well",W20975,2006,'0.53,NA,'0.85,NA
+TN,Chennai,Chennai,Chennai,13.02222222,80.225,Guindy(CLRI),"Bore Well",W01768,2006,7.3,3.7,'0.2,9.43
+TN,Chennai,Chennai,Chennai,13.07777778,80.22916667,Thiyagarayanagar,"Dug Well",W01777,2006,4.1,3.47,1.26,4.06
+TN,Chennai,Chennai,Chennai,13.08333333,80.27083333,Vepery,"Dug Well",W01783,2006,6.6,1.6,3,5.09
+TN,Chennai,Chennai,Chennai,13.00138889,80.27,"Besant Nagar","Dug Well",W01766,2005,NA,NA,3.26,7.25
+TN,Chennai,Chennai,Chennai,13.06666667,80.22777778,Aminjikarai,"Dug Well",W01765,2005,12.17,12.14,7.97,12.17
+TN,Chennai,Chennai,Chennai,13.025,80.25833333,Alwarpet,"Dug Well",W01764,2005,3.5,3.97,'0.66,3.93
+TN,Chennai,Chennai,Chennai,13.11666667,80.275,Tondiarpet-2,"Dug Well",W18421,2005,7.8,5.7,1.85,6.3
+TN,Chennai,Chennai,Chennai,13.10138889,80.22777778,Villivakkam,"Dug Well",W01784,2005,4.12,4.12,'0.02,5.03
+TN,Chennai,Chennai,Chennai,13.08333333,80.27083333,Vepery,"Dug Well",W01783,2005,6.23,6.06,'0.05,6.4
+TN,Chennai,Chennai,Chennai,13.11666667,80.26666667,Tondiarpet-1,"Dug Well",W01780,2005,NA,4.71,2.36,6.26
+TN,Chennai,Chennai,Chennai,13.05833333,80.25972222,"Thousand Lights","Dug Well",W01778,2005,NA,6.1,NA,6.43
+TN,Chennai,Chennai,Chennai,13.07777778,80.22916667,Thiyagarayanagar,"Dug Well",W01777,2005,10.85,10.89,4.57,10.85
+TN,Chennai,Chennai,Chennai,13.12083333,80.26666667,Perambur,"Dug Well",W01773,2005,NA,NA,NA,10.6
+TN,Chennai,Chennai,Chennai,13.05,80.21666667,Kodambakkam,"Dug Well",W01771,2005,NA,10.06,NA,9.65
+TN,Chennai,Chennai,Chennai,13.02222222,80.225,Guindy(CLRI),"Bore Well",W01768,2005,NA,7.2,2.9,9.16
+TN,Chennai,Chennai,Chennai,13.0625,80.27916667,Chepauk,"Dug Well",W01767,2005,2.21,1.79,'0.91,2.42
+TN,Chennai,Chennai,Chennai,13.025,80.26916667,Mandaveli,"Dug Well",W01772,2004,NA,4.65,NA,6.85
+TN,Chennai,Chennai,Chennai,13.08333333,80.27083333,Vepery,"Dug Well",W01783,2004,5.03,3.1,5.39,6.11
+TN,Chennai,Chennai,Chennai,13.11666667,80.26666667,Tondiarpet-1,"Dug Well",W01780,2004,6,5.3,5.5,6
+TN,Chennai,Chennai,Chennai,13.02222222,80.225,Guindy(CLRI),"Bore Well",W01768,2004,10.04,10.4,6.1,5.81
+TN,Chennai,Chennai,Chennai,13.12083333,80.26666667,Perambur,"Dug Well",W01773,2004,NA,11.8,NA,10.6
+TN,Chennai,Chennai,Chennai,13.05833333,80.25972222,"Thousand Lights","Dug Well",W01778,2004,5.69,5.9,5.65,6.32
+TN,Chennai,Chennai,Chennai,13.06666667,80.22777778,Aminjikarai,"Dug Well",W01765,2004,11.06,9.27,11.32,11.48
+TN,Chennai,Chennai,Chennai,13.00555556,80.24861111,Taramani,"Dug Well",W01776,2004,3.24,2.74,NA,7.14
+TN,Chennai,Chennai,Chennai,13.05,80.21666667,Kodambakkam,"Dug Well",W01771,2004,9.65,6.95,7.82,9.65
+TN,Chennai,Chennai,Chennai,13.03333333,80.28055556,Santhome,"Dug Well",W01775,2004,2.82,4.2,NA,4.2
+TN,Chennai,Chennai,Chennai,13.0625,80.27916667,Chepauk,"Dug Well",W01767,2004,2.3,2,NA,2.71
+TN,Chennai,Chennai,Chennai,13.10138889,80.22777778,Villivakkam,"Dug Well",W01784,2004,4.15,4.92,3.1,4.65
+TN,Chennai,Chennai,Chennai,13.025,80.25833333,Alwarpet,"Dug Well",W01764,2004,4.06,6.5,2.93,8.2
+TN,Chennai,Chennai,Chennai,13.07777778,80.22916667,Thiyagarayanagar,"Dug Well",W01777,2004,10.85,10.6,10.72,10.85
+TN,Chennai,Chennai,Chennai,13.00555556,80.24861111,Taramani,"Dug Well",W01776,2003,2.74,NA,6.85,3.79
+TN,Chennai,Chennai,Chennai,13.07777778,80.22916667,Thiyagarayanagar,"Dug Well",W01777,2003,9.59,NA,10.64,8.95
+TN,Chennai,Chennai,Chennai,13.05833333,80.25972222,"Thousand Lights","Dug Well",W01778,2003,6.3,NA,5.3,7.83
+TN,Chennai,Chennai,Chennai,13.11666667,80.26666667,Tondiarpet-1,"Dug Well",W01780,2003,5.14,NA,5.4,3.89
+TN,Chennai,Chennai,Chennai,13.08333333,80.27083333,Vepery,"Dug Well",W01783,2003,3.12,NA,2.7,3.05
+TN,Chennai,Chennai,Chennai,13.10138889,80.22777778,Villivakkam,"Dug Well",W01784,2003,4.45,NA,4.12,4.05
+TN,Chennai,Chennai,Chennai,13.025,80.25833333,Alwarpet,"Dug Well",W01764,2003,5.6,NA,2.87,4.78
+TN,Chennai,Chennai,Chennai,13.06666667,80.22777778,Aminjikarai,"Dug Well",W01765,2003,NA,NA,8.97,NA
+TN,Chennai,Chennai,Chennai,13.0625,80.27916667,Chepauk,"Dug Well",W01767,2003,2.73,NA,3.9,2.45
+TN,Chennai,Chennai,Chennai,13.02222222,80.225,Guindy(CLRI),"Bore Well",W01768,2003,8.74,NA,9.19,8.45
+TN,Chennai,Chennai,Chennai,13.05,80.21666667,Kodambakkam,"Dug Well",W01771,2003,7.96,NA,5.07,7.27
+TN,Chennai,Chennai,Chennai,13.025,80.26916667,Mandaveli,"Dug Well",W01772,2003,4.1,NA,3.75,3.51
+TN,Chennai,Chennai,Chennai,13.12083333,80.26666667,Perambur,"Dug Well",W01773,2003,NA,NA,6,NA
+TN,Chennai,Chennai,Chennai,13.03333333,80.28055556,Santhome,"Dug Well",W01775,2003,2.45,NA,2.49,3.69
+TN,Chennai,Chennai,Chennai,13.05833333,80.25972222,"Thousand Lights","Dug Well",W01778,2002,6,5.6,5.7,6.04
+TN,Chennai,Chennai,Chennai,13.06666667,80.22777778,Aminjikarai,"Dug Well",W01765,2002,9,NA,-0.86,8.47
+TN,Chennai,Chennai,Chennai,13.025,80.25833333,Alwarpet,"Dug Well",W01764,2002,3.39,2.99,3.47,3.73
+TN,Chennai,Chennai,Chennai,13.03333333,80.28055556,Santhome,"Dug Well",W01775,2002,2.23,2.74,1.66,3.42
+TN,Chennai,Chennai,Chennai,13.0625,80.27916667,Chepauk,"Dug Well",W01767,2002,1.7,2,'0.55,2.67
+TN,Chennai,Chennai,Chennai,13.10138889,80.22777778,Villivakkam,"Dug Well",W01784,2002,4.04,1.47,'0.6,3.94
+TN,Chennai,Chennai,Chennai,13.12083333,80.26666667,Perambur,"Dug Well",W01773,2002,NA,NA,NA,6.4
+TN,Chennai,Chennai,Chennai,13.00555556,80.24861111,Taramani,"Dug Well",W01776,2002,1.85,3.27,1.33,3.85
+TN,Chennai,Chennai,Chennai,13.11666667,80.26666667,Tondiarpet-1,"Dug Well",W01780,2002,4.47,4.36,3.8,4.27
+TN,Chennai,Chennai,Chennai,13.05,80.21666667,Kodambakkam,"Dug Well",W01771,2002,7.79,8.08,5.86,7.61
+TN,Chennai,Chennai,Chennai,13.07777778,80.22916667,Thiyagarayanagar,"Dug Well",W01777,2002,9.24,8.02,5.84,8.91
+TN,Chennai,Chennai,Chennai,13.08333333,80.27083333,Vepery,"Dug Well",W01783,2002,3.1,5.1,'0.1,4.55
+TN,Chennai,Chennai,Chennai,13.02222222,80.225,Guindy(CLRI),"Bore Well",W01768,2002,NA,NA,4.2,NA
+TN,Chennai,Chennai,Chennai,13.025,80.26916667,Mandaveli,"Dug Well",W01772,2002,3.75,2.45,'0.77,3.68
+TN,Chennai,Chennai,Chennai,13.06666667,80.22777778,Aminjikarai,"Dug Well",W01765,2001,NA,NA,NA,NA
+TN,Chennai,Chennai,Chennai,13.025,80.25833333,Alwarpet,"Dug Well",W01764,2001,4.17,4.05,2.87,3.79
+TN,Chennai,Chennai,Chennai,13.10138889,80.22777778,Villivakkam,"Dug Well",W01784,2001,4.29,3.94,1.42,5.88
+TN,Chennai,Chennai,Chennai,13.08333333,80.27083333,Vepery,"Dug Well",W01783,2001,6.49,6.27,4.6,6.59
+TN,Chennai,Chennai,Chennai,13.11666667,80.26666667,Tondiarpet-1,"Dug Well",W01780,2001,NA,5.65,3.9,NA
+TN,Chennai,Chennai,Chennai,13.05833333,80.25972222,"Thousand Lights","Dug Well",W01778,2001,6.32,6.49,4.9,6.63
+TN,Chennai,Chennai,Chennai,13.07777778,80.22916667,Thiyagarayanagar,"Dug Well",W01777,2001,10.39,10.84,9.04,10.34
+TN,Chennai,Chennai,Chennai,13.00555556,80.24861111,Taramani,"Dug Well",W01776,2001,3.51,2.02,1.53,1.92
+TN,Chennai,Chennai,Chennai,13.03333333,80.28055556,Santhome,"Dug Well",W01775,2001,2.81,3.06,1.78,3.91
+TN,Chennai,Chennai,Chennai,13.12083333,80.26666667,Perambur,"Dug Well",W01773,2001,NA,NA,NA,NA
+TN,Chennai,Chennai,Chennai,13.025,80.26916667,Mandaveli,"Dug Well",W01772,2001,4.4,3.45,1.85,4.25
+TN,Chennai,Chennai,Chennai,13.05,80.21666667,Kodambakkam,"Dug Well",W01771,2001,NA,8.45,8.36,8.66
+TN,Chennai,Chennai,Chennai,13.02222222,80.225,Guindy(CLRI),"Bore Well",W01768,2001,NA,7.6,NA,9.16
+TN,Chennai,Chennai,Chennai,13.0625,80.27916667,Chepauk,"Dug Well",W01767,2001,2.52,2.72,1.2,2.75
+TN,Chennai,Chennai,Chennai,13.03333333,80.28055556,Santhome,"Dug Well",W01775,2000,2.74,3.14,2.7,3.35
+TN,Chennai,Chennai,Chennai,13.08333333,80.27083333,Vepery,"Dug Well",W01783,2000,5.9,3.28,5.37,6.96
+TN,Chennai,Chennai,Chennai,13.025,80.26916667,Mandaveli,"Dug Well",W01772,2000,3.15,2.14,2.84,3.17
+TN,Chennai,Chennai,Chennai,13.00555556,80.24861111,Taramani,"Dug Well",W01776,2000,NA,6.15,1.09,2.62
+TN,Chennai,Chennai,Chennai,13.11666667,80.26666667,Tondiarpet-1,"Dug Well",W01780,2000,4.6,5.19,5.31,4.2
+TN,Chennai,Chennai,Chennai,13.12083333,80.26666667,Perambur,"Dug Well",W01773,2000,5,5.05,NA,7
+TN,Chennai,Chennai,Chennai,13.06666667,80.22777778,Aminjikarai,"Dug Well",W01765,2000,12.74,8.58,NA,8.94
+TN,Chennai,Chennai,Chennai,13.10138889,80.22777778,Villivakkam,"Dug Well",W01784,2000,3.32,2.12,3.38,6.4
+TN,Chennai,Chennai,Chennai,13.05833333,80.25972222,"Thousand Lights","Dug Well",W01778,2000,5.9,5.5,6.16,5.9
+TN,Chennai,Chennai,Chennai,13.02222222,80.225,Guindy(CLRI),"Bore Well",W01768,2000,NA,5.44,7.95,7.05
+TN,Chennai,Chennai,Chennai,13.025,80.25833333,Alwarpet,"Dug Well",W01764,2000,3.77,2.87,3.4,3.71
+TN,Chennai,Chennai,Chennai,13.07777778,80.22916667,Thiyagarayanagar,"Dug Well",W01777,2000,9.04,6.14,9.13,7.94
+TN,Chennai,Chennai,Chennai,13.0625,80.27916667,Chepauk,"Dug Well",W01767,2000,2.5,2.02,1.77,2.73
+TN,Chennai,Chennai,Chennai,13.05,80.21666667,Kodambakkam,"Dug Well",W01771,2000,7.16,6.66,7.97,6.51
+TN,Chennai,Chennai,Chennai,13.0625,80.27916667,Chepauk,"Dug Well",W01767,1999,2.08,2.4,1.2,2.76
+TN,Chennai,Chennai,Chennai,13.12083333,80.26666667,Perambur,"Dug Well",W01773,1999,4.96,3.7,2.15,5.6
+TN,Chennai,Chennai,Chennai,13.07777778,80.22916667,Thiyagarayanagar,"Dug Well",W01777,1999,5.64,4.44,5.22,5.53
+TN,Chennai,Chennai,Chennai,13.08333333,80.27083333,Vepery,"Dug Well",W01783,1999,2.16,5.44,'0.96,3.16
+TN,Chennai,Chennai,Chennai,13.05833333,80.25972222,"Thousand Lights","Dug Well",W01778,1999,5.78,5.1,4.85,5.68
+TN,Chennai,Chennai,Chennai,13.025,80.26916667,Mandaveli,"Dug Well",W01772,1999,1.98,1.92,1.05,3.31
+TN,Chennai,Chennai,Chennai,13.11666667,80.26666667,Tondiarpet-1,"Dug Well",W01780,1999,5.13,4.37,4.23,4.93
+TN,Chennai,Chennai,Chennai,13.025,80.25833333,Alwarpet,"Dug Well",W01764,1999,2.79,3.27,2.05,3.04
+TN,Chennai,Chennai,Chennai,13.00555556,80.24861111,Taramani,"Dug Well",W01776,1999,NA,4.55,1.06,2.2
+TN,Chennai,Chennai,Chennai,13.05,80.21666667,Kodambakkam,"Dug Well",W01771,1999,4.7,4.56,3.34,4.58
+TN,Chennai,Chennai,Chennai,13.06666667,80.22777778,Aminjikarai,"Dug Well",W01765,1999,NA,7.4,7.19,8.74
+TN,Chennai,Chennai,Chennai,13.03333333,80.28055556,Santhome,"Dug Well",W01775,1999,2.17,3.48,2.19,2.8
+TN,Chennai,Chennai,Chennai,13.02222222,80.225,Guindy(CLRI),"Bore Well",W01768,1999,NA,NA,4.05,NA
+TN,Chennai,Chennai,Chennai,13.10138889,80.22777778,Villivakkam,"Dug Well",W01784,1999,3.75,2.24,'0.97,3.51
+TN,Chennai,Chennai,Chennai,13.05833333,80.25972222,"Thousand Lights","Dug Well",W01778,1998,5.2,3.7,4.57,4.68
+TN,Chennai,Chennai,Chennai,13.12083333,80.26666667,Perambur,"Dug Well",W01773,1998,4.6,2.9,3.15,4.75
+TN,Chennai,Chennai,Chennai,13.025,80.26916667,Mandaveli,"Dug Well",W01772,1998,2.93,1.85,1.35,3.15
+TN,Chennai,Chennai,Chennai,13.11666667,80.26666667,Tondiarpet-1,"Dug Well",W01780,1998,3.7,2.03,3.87,3.43
+TN,Chennai,Chennai,Chennai,13.05,80.21666667,Kodambakkam,"Dug Well",W01771,1998,NA,2.44,4.04,4.6
+TN,Chennai,Chennai,Chennai,13.025,80.25833333,Alwarpet,"Dug Well",W01764,1998,3.37,2.17,1.77,3.12
+TN,Chennai,Chennai,Chennai,13.0625,80.27916667,Chepauk,"Dug Well",W01767,1998,2.43,2.29,'0.7,2.75
+TN,Chennai,Chennai,Chennai,13.08333333,80.27083333,Vepery,"Dug Well",W01783,1998,5.36,5.71,1.6,5.44
+TN,Chennai,Chennai,Chennai,13.03333333,80.28055556,Santhome,"Dug Well",W01775,1998,2.84,3.4,2.19,2.74
+TN,Chennai,Chennai,Chennai,13.06666667,80.22777778,Aminjikarai,"Dug Well",W01765,1998,8.84,5.69,6.84,8.29
+TN,Chennai,Chennai,Chennai,13.00555556,80.24861111,Taramani,"Dug Well",W01776,1998,1.75,2.75,'0.55,2.05
+TN,Chennai,Chennai,Chennai,13.10138889,80.22777778,Villivakkam,"Dug Well",W01784,1998,4.12,2.52,2.72,4.05
+TN,Chennai,Chennai,Chennai,13.07777778,80.22916667,Thiyagarayanagar,"Dug Well",W01777,1998,4.77,2.86,3.39,4.44
+TN,Chennai,Chennai,Chennai,13.07777778,80.22916667,Thiyagarayanagar,"Dug Well",W01777,1997,4.44,'0.54,'0.72,4.09
+TN,Chennai,Chennai,Chennai,13.00555556,80.24861111,Taramani,"Dug Well",W01776,1997,1.35,NA,NA,1.7
+TN,Chennai,Chennai,Chennai,13.03333333,80.28055556,Santhome,"Dug Well",W01775,1997,1.91,2.07,1.66,3.11
+TN,Chennai,Chennai,Chennai,13.12083333,80.26666667,Perambur,"Dug Well",W01773,1997,3.5,'0.67,1.57,3.6
+TN,Chennai,Chennai,Chennai,13.025,80.26916667,Mandaveli,"Dug Well",W01772,1997,2.92,1.06,'0.25,2.39
+TN,Chennai,Chennai,Chennai,13.05,80.21666667,Kodambakkam,"Dug Well",W01771,1997,4.49,'0.88,'0.64,3.94
+TN,Chennai,Chennai,Chennai,13.0625,80.27916667,Chepauk,"Dug Well",W01767,1997,2.33,1,'0.84,2.4
+TN,Chennai,Chennai,Chennai,13.06666667,80.22777778,Aminjikarai,"Dug Well",W01765,1997,7.54,3.47,4.09,6.96
+TN,Chennai,Chennai,Chennai,13.025,80.25833333,Alwarpet,"Dug Well",W01764,1997,3.07,'0.98,1.04,3
+TN,Chennai,Chennai,Chennai,13.10138889,80.22777778,Villivakkam,"Dug Well",W01784,1997,3.97,'0.29,'0.12,3.54
+TN,Chennai,Chennai,Chennai,13.08333333,80.27083333,Vepery,"Dug Well",W01783,1997,4.65,'0.84,1.54,4.89
+TN,Chennai,Chennai,Chennai,13.11666667,80.26666667,Tondiarpet-1,"Dug Well",W01780,1997,3.3,1.32,1.22,2.95
+TN,Chennai,Chennai,Chennai,13.05833333,80.25972222,"Thousand Lights","Dug Well",W01778,1997,4.75,3.22,3,4.64
+TN,Chennai,Chennai,Chennai,13.12083333,80.26666667,Perambur,"Dug Well",W01773,1996,3.06,3.15,1.33,5.75
+TN,Chennai,Chennai,Chennai,13.11666667,80.26666667,Tondiarpet-1,"Dug Well",W01780,1996,3.06,3.33,2.27,4.98
+TN,Chennai,Chennai,Chennai,13.10138889,80.22777778,Villivakkam,"Dug Well",W01784,1996,1.94,2.86,'0.5,4.58
+TN,Chennai,Chennai,Chennai,13.025,80.26916667,Mandaveli,"Dug Well",W01772,1996,2.67,2.71,1.35,3.65
+TN,Chennai,Chennai,Chennai,13.05,80.21666667,Kodambakkam,"Dug Well",W01771,1996,3.82,4.34,1.21,7.32
+TN,Chennai,Chennai,Chennai,13.08333333,80.27083333,Vepery,"Dug Well",W01783,1996,1.7,3.48,'0.8,5.16
+TN,Chennai,Chennai,Chennai,13.07777778,80.22916667,Thiyagarayanagar,"Dug Well",W01777,1996,5.06,5.02,2.8,6.9
+TN,Chennai,Chennai,Chennai,13.0625,80.27916667,Chepauk,"Dug Well",W01767,1996,1.19,1.85,1.27,2.6
+TN,Chennai,Chennai,Chennai,13.03333333,80.28055556,Santhome,"Dug Well",W01775,1996,2.1,2.46,2.35,3.1
+TN,Chennai,Chennai,Chennai,13.06666667,80.22777778,Aminjikarai,"Dug Well",W01765,1996,7.5,7.48,5.61,9.85
+TN,Chennai,Chennai,Chennai,13.05833333,80.25972222,"Thousand Lights","Dug Well",W01778,1996,5.75,5.66,5.04,10.02
+TN,Chennai,Chennai,Chennai,13.00555556,80.24861111,Taramani,"Dug Well",W01776,1996,1.15,1.59,1.15,4.03
+TN,Chennai,Chennai,Chennai,13.025,80.25833333,Alwarpet,"Dug Well",W01764,1996,3.6,3.47,1.85,5.04
